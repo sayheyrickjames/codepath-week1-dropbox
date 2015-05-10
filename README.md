@@ -6,8 +6,6 @@ This is an iOS demo application of the [Dropbox](http://www.dropbox.com) interfa
 
 Time spent: 20 hours (It was my first time, sheesh!)
 
-----------
-
 # Project Requirements - Completed
 
 * [x] User can tap through the 3 welcome screens.
@@ -28,9 +26,6 @@ Time spent: 20 hours (It was my first time, sheesh!)
 * [x] Add UITextFields for the forms so you can actually type in them and handle dismissing the keyboard.
 * Got most of these set up. Even adjusted the background screenshots a bit.
 * [x] You should be able to swipe through the welcome screens instead of just tapping them.
-
-----------
-
 
 ![dropbox-walkthrough](https://raw.githubusercontent.com/sayheyrickjames/codepath-week1-dropbox/master/week1/gif-recordings/dropbox-walkthrough.gif)
 
