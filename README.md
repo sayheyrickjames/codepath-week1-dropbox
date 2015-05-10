@@ -4,7 +4,7 @@ This is the Week 1 submission for the [CodePath](http://www.codepath.com) course
 
 This is an iOS demo application of the [Dropbox](http://www.dropbox.com) interface. 
 
-Time spent: 20 hours
+Time spent: 20 hours 
 
 # Project Requirements - Completed
 
