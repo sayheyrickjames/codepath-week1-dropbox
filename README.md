@@ -4,7 +4,9 @@ This is the Week 1 submission for the [CodePath](http://www.codepath.com) course
 
 This is an iOS demo application of the [Dropbox](http://www.dropbox.com) interface. 
 
-Time spent: 20 hours 
+Time spent: 20 hours (It was my first time, sheesh!)
+
+----------
 
 # Project Requirements - Completed
 
@@ -27,8 +29,9 @@ Time spent: 20 hours
 * Got most of these set up. Even adjusted the background screenshots a bit.
 * [x] You should be able to swipe through the welcome screens instead of just tapping them.
 
+----------
 
 
-![dropbox_user_stories](https://cloud.githubusercontent.com/assets/1504818/6102356/c9f57f5a-afe9-11e4-89ac-d4a319665c92.gif)
+![dropbox-walkthrough](https://raw.githubusercontent.com/sayheyrickjames/codepath-week1-dropbox/master/week1/gif-recordings/dropbox-walkthrough.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
